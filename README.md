@@ -6,7 +6,6 @@
   게임 시장의 트렌드 변화를 분석하고, 앞으로 게임시장은 어떻게 될 것인지 예측해  
   최종적으로 새롭게 출시할 게임을 추천
 
-![VideoGames](https://user-images.githubusercontent.com/88722429/175808174-27bac062-d148-4092-9f46-515784c87b79.png)
 ![VideoGames (1)](https://user-images.githubusercontent.com/88722429/175808352-d0ec6993-ce9c-42db-8a38-908e4d054c20.png)
 ![VideoGames (2)](https://user-images.githubusercontent.com/88722429/175808353-87069ff1-1451-4b76-b337-c7333429eb4a.png)
 Codestates에서 제공받은 데이터 사용(16598 x 9)
